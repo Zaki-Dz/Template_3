@@ -393,6 +393,11 @@ header nav > ul > li > a:hover::before {
 	padding: 20px;
 }
 
+#articles .articles .article .content span{
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
 #articles .articles .article .content p {
 	color: var(--p);
 }
